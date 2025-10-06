@@ -76,7 +76,7 @@ repo:
     url:  https://github.com/nxp-imx/imx-atf.git
 
   uboot:
-    url:  https://github.com/nxp-imx/uboot-imx.git
+    url:  https://github.com/openhacker/uboot-imx.git
 
   rcw:
     url:  https://github.com/nxp-qoriq/rcw.git
