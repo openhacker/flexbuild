@@ -77,7 +77,7 @@ repo:
 
   uboot:
     url:  https://github.com/openhacker/uboot-imx.git
-    tag:  marty-v1.0
+    tag:  marty-try
 
   rcw:
     url:  https://github.com/nxp-qoriq/rcw.git
